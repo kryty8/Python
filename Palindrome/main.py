@@ -1,4 +1,4 @@
-# Is this palyndrome?
+# Is this Palindrome?
 
 # Make a function
 def palindorm(teststring):
